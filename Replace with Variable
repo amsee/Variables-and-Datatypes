@@ -1,0 +1,7 @@
+cat_name = "Vej"
+cat_age = 10
+
+print("There once was a cat named , " + cat_name)
+print("he was " + str(cat_age) + "years old. ")
+print("He really liked the name , " + cat_name)
+print("but didn't like being " + str(cat_age) + ".")
