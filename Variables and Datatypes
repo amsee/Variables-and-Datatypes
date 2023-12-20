@@ -1,0 +1,18 @@
+# Variables and Datatypes
+
+# A variable holding a value of a string datatype
+cat_name = "Vej"
+
+# A variable holding a value of an integer datatype
+cat_age = 10
+
+# A variable holding a value of a float datatype
+cat_braincell = 0.5
+
+# A variable holding a value of a boolean datatype 
+is_male = True
+
+print("There once was a cat named , " + cat_name)
+print("he was " + str(cat_age) + "years old. ")
+print("He really liked the name , " + cat_name)
+print("but didn't like being " + str(cat_age) + ".")
